@@ -1,0 +1,34 @@
+_repo: Common-Objects-of-the-Microscope_55146
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: West, Tuffen
+    gutenberg_agent_id: '48203'
+    url: http://www.gutenberg.org/2009/agents/48203
+creator:
+  author:
+    agent_name: Wood, J. G. (John George)
+    aliases:
+    - Forrest, George
+    - Wood, John George
+    birthdate: 1827
+    deathdate: 1889
+    gutenberg_agent_id: '8330'
+    url: http://www.gutenberg.org/2009/agents/8330
+  editor:
+    agent_name: Bousfield, E. C.
+    gutenberg_agent_id: '48202'
+    url: http://www.gutenberg.org/2009/agents/48202
+description: ''
+gutenberg_issued: '2017-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Common Objects of the Microscope
+url: http://www.gutenberg.org/ebooks/55146
